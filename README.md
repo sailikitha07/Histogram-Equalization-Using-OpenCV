@@ -70,8 +70,8 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** Cholimgapuram Sai Likitha
-**Register No:**  212224230046
+#### Name: Cholimgapuram Sai Likitha
+#### Register No: 212224230046
 ```
 import cv2
 import numpy as np
